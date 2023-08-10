@@ -1,0 +1,24 @@
+New User singnedin: raj - 2023-08-08 15:27:07.685021
+New User singnedin: abc - 2023-08-09 23:38:34.296621
+User abc activated their account - 2023-08-09 23:38:46.810917
+User abc viewed their customers - 2023-08-09 23:39:30.271632
+User abc deleted an address - 2023-08-09 23:39:31.673417
+User abc viewed their customers - 2023-08-09 23:39:31.690957
+User safal viewed their adresses - 2023-08-09 23:53:20.516742
+User safal deleted an address - 2023-08-09 23:53:22.949290
+User safal viewed their adresses - 2023-08-09 23:53:22.965635
+User aaa signed up but not yet activated - 2023-08-10 00:03:17.812659
+User aaa activated their account - 2023-08-10 00:03:28.751852
+User aaa activated their account - 2023-08-10 00:03:28.757093
+User safal viewed their adresses - 2023-08-10 00:11:28.682834
+User safal added a new customer/address - 2023-08-10 00:11:41.657522
+User safal viewed their adresses - 2023-08-10 00:11:41.674070
+User safal added a new customer/address - 2023-08-10 00:11:56.639734
+User safal viewed their adresses - 2023-08-10 00:11:56.654746
+User safal deleted an address - 2023-08-10 00:11:57.867673
+User safal viewed their adresses - 2023-08-10 00:11:57.882149
+User salsa signed up but not yet activated - 2023-08-10 00:16:42.526889
+User salsa activated their account - 2023-08-10 00:16:50.925877
+User salsa activated their account - 2023-08-10 00:16:50.930843
+User salsa edited their profile - 2023-08-10 00:17:02.825510
+User safal edited their profile - 2023-08-10 00:28:23.319451

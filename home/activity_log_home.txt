@@ -1,0 +1,25 @@
+User safal visited the home page - 2023-08-10 00:14:40.383601
+User safal searched for 'ssss' - 2023-08-10 00:15:09.277598
+User safal visited the product list page with sorting option 1 - 2023-08-10 00:15:20.664374
+User safal viewed details of product with slug Deodorant - 2023-08-10 00:15:27.220301
+User Anonymous visited the home page - 2023-08-10 00:16:13.339585
+User salsa visited the home page - 2023-08-10 00:16:50.941661
+User salsa visited the home page - 2023-08-10 00:17:02.834664
+User Anonymous visited the home page - 2023-08-10 00:20:39.459545
+User safal visited the home page - 2023-08-10 00:22:19.804375
+User safal visited the home page - 2023-08-10 00:22:38.960386
+User Anonymous visited the home page - 2023-08-10 00:22:42.453703
+User safal visited the home page - 2023-08-10 00:23:00.922654
+User safal visited the home page - 2023-08-10 00:26:07.474069
+User safal visited the home page - 2023-08-10 00:26:16.394990
+User safal visited the product list page with sorting option 1 - 2023-08-10 00:26:30.046585
+User safal visited the home page - 2023-08-10 00:27:04.792972
+User safal viewed details of product with slug cdscds - 2023-08-10 00:27:07.200364
+User safal visited the home page - 2023-08-10 00:27:10.168260
+User Anonymous visited the home page - 2023-08-10 00:27:21.459641
+User safal visited the home page - 2023-08-10 00:27:37.334066
+User safal viewed details of product with slug Aveeno-Stress-Relief-Moisturizing - 2023-08-10 00:27:47.383576
+User safal visited the home page - 2023-08-10 00:28:23.333810
+User safal viewed details of product with slug Deodorant - 2023-08-10 00:28:35.027135
+User safal searched for 'de' - 2023-08-10 00:29:07.385514
+User Anonymous visited the home page - 2023-08-10 10:53:00.179771
