@@ -23,3 +23,39 @@ User safal visited the home page - 2023-08-10 00:28:23.333810
 User safal viewed details of product with slug Deodorant - 2023-08-10 00:28:35.027135
 User safal searched for 'de' - 2023-08-10 00:29:07.385514
 User Anonymous visited the home page - 2023-08-10 10:53:00.179771
+User Anonymous visited the home page - 2023-08-10 23:08:55.845600
+User safal visited the home page - 2023-08-10 23:30:26.085256
+User safal visited the home page - 2023-08-10 23:30:57.606901
+User safal visited the product list page with sorting option 1 - 2023-08-10 23:32:01.375212
+User safal visited the home page - 2023-08-10 23:40:36.356867
+User Anonymous visited the home page - 2023-08-10 23:57:14.918855
+User test122 visited the home page - 2023-08-11 00:08:11.417644
+User test122 visited the home page - 2023-08-11 00:08:23.665478
+User test122 visited the home page - 2023-08-11 00:08:31.634823
+User test122 visited the home page - 2023-08-11 00:08:46.962478
+User test122 visited the home page - 2023-08-11 00:09:07.469999
+User test12 visited the home page - 2023-08-11 00:09:38.649175
+User test12 visited the home page - 2023-08-11 00:09:57.425938
+User Anonymous visited the home page - 2023-08-11 00:10:07.030556
+User abb visited the home page - 2023-08-11 00:10:48.310253
+User Anonymous visited the home page - 2023-08-11 00:13:14.140057
+User safal visited the home page - 2023-08-11 00:13:21.552240
+User Anonymous visited the home page - 2023-08-11 00:13:40.489776
+User safal visited the home page - 2023-08-11 00:13:51.267965
+User Anonymous visited the product list page with sorting option 1 - 2023-08-11 00:14:19.128722
+User safal visited the home page - 2023-08-11 00:14:46.232741
+User safal visited the home page - 2023-08-11 00:15:11.439578
+User safal visited the home page - 2023-08-11 00:15:17.321126
+User safal visited the product list page with sorting option 1 - 2023-08-11 00:15:21.448244
+User Anonymous visited the home page - 2023-08-11 00:16:10.613400
+User Anonymous visited the home page - 2023-08-11 02:02:27.413230
+User Anonymous viewed details of product with slug def - 2023-08-11 02:02:50.657147
+User safal visited the home page - 2023-08-11 02:03:07.809092
+User Anonymous visited the product list page with sorting option 1 - 2023-08-11 02:03:19.967456
+User safal visited the home page - 2023-08-11 02:03:30.140836
+User safal visited the product list page with sorting option 1 - 2023-08-11 02:03:39.426595
+User safal visited the product list page with sorting option 1 - 2023-08-11 02:03:48.371702
+User Anonymous visited the home page - 2023-08-11 02:04:22.559280
+User safal visited the home page - 2023-08-11 02:04:37.680974
+User Anonymous visited the home page - 2023-08-11 13:59:12.804184
+User safal visited the home page - 2023-08-11 14:05:19.495150

@@ -160,7 +160,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 #Django sesion time out
  
-AUTO_LOGOUT = {'IDLE_TIME': 180,'REDIRECT_TO_LOGIN_IMMEDIATELY': True,
+AUTO_LOGOUT = {'IDLE_TIME': 120,'REDIRECT_TO_LOGIN_IMMEDIATELY': True,
   'MESSAGE': 'The session has expired. Please login again to continue.',}
 
 LOGGING = {

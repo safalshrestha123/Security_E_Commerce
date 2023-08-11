@@ -22,3 +22,12 @@ User salsa activated their account - 2023-08-10 00:16:50.925877
 User salsa activated their account - 2023-08-10 00:16:50.930843
 User salsa edited their profile - 2023-08-10 00:17:02.825510
 User safal edited their profile - 2023-08-10 00:28:23.319451
+User test12 signed up but not yet activated - 2023-08-10 23:58:49.995492
+User test122 signed up but not yet activated - 2023-08-11 00:05:24.446191
+User test122 activated their account - 2023-08-11 00:08:11.385585
+User test122 activated their account - 2023-08-11 00:08:11.398191
+User test12 activated their account - 2023-08-11 00:09:38.631124
+User test12 activated their account - 2023-08-11 00:09:38.637844
+User abb signed up but not yet activated - 2023-08-11 00:10:33.926085
+User abb activated their account - 2023-08-11 00:10:48.295286
+User abb activated their account - 2023-08-11 00:10:48.300799
